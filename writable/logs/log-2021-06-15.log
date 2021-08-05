@@ -1,0 +1,610 @@
+CRITICAL - 2021-06-15 06:40:24 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:08 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:13 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:14 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:14 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:15 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:41:16 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:25 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:26 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:26 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:26 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:26 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:27 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:27 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:27 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:27 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:28 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:28 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:28 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:28 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:29 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:42:29 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:45:50 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:45:50 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:45:51 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:45:51 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:45:51 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:45:51 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:45:52 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:47:06 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:47:07 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:47:07 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:50:36 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:50:36 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:56:55 --> Unmatched '}'
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 06:57:19 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('home')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('home')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:02:26 --> syntax error, unexpected token "echo", expecting ";" or "{"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:02:53 --> syntax error, unexpected token "{", expecting "function" or "const"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:02:54 --> syntax error, unexpected token "{", expecting "function" or "const"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:03:15 --> syntax error, unexpected token "echo", expecting ";" or "{"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:03:16 --> syntax error, unexpected token "echo", expecting ";" or "{"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:03:33 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:03:35 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:03:59 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:08:33 --> syntax error, unexpected token "echo", expecting ";" or "{"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('page')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('page')
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-06-15 07:18:59 --> Undefined constant "Config\transliterator_create_from_rules"
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(796): require()
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-06-15 07:21:49 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:45 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:46 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:46 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:46 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:47 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:47 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:47 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:47 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:48 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:22:48 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:03 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:04 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:04 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:05 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:05 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:05 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:06 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:06 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:06 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:07 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:28:07 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 07:29:58 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 08:47:57 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 08:48:34 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 08:48:35 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 08:48:36 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 08:48:36 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-06-15 08:48:37 --> Invalid file: about.php
+#0 C:\xampp\htdocs\lab11_php_ci\ci4\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('about.php')
+#1 C:\xampp\htdocs\lab11_php_ci\ci4\system\Common.php(1271): CodeIgniter\View\View->render('about', Array, true)
+#2 C:\xampp\htdocs\lab11_php_ci\ci4\app\Controllers\Page.php(11): view('about', Array)
+#3 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(928): App\Controllers\Page->about()
+#4 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Page))
+#5 C:\xampp\htdocs\lab11_php_ci\ci4\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lab11_php_ci\ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
